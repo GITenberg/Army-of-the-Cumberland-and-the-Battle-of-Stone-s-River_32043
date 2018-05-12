@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '35630'
     url: http://www.gutenberg.org/2009/agents/35630
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32043#Army-of-the-Cumberland-and-the-Battle-of-Stone-s-River
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2010-04-18'
 gutenberg_type: Text
